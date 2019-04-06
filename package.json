@@ -1,0 +1,19 @@
+{
+  "name": "@wall-tracker/core",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Tracker Core",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/thenationofalex/wall-tracker/src/master/"
+  },
+  "scripts": {
+    "commitmsg": "./node_modules/.bin/commitlint -e $GIT_PARAMS"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.0.0",
+    "@commitlint/config-conventional": "^7.0.1",
+    "husky": "^0.14.3",
+    "lerna": "^3.5.1"
+  }
+}

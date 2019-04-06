@@ -1,0 +1,14 @@
+node_modules
+coverage
+.nyc_output
+dist
+.serverless
+jspm_packages
+lerna-debug.log
+build
+.DS_Store
+.build
+.sonarlint
+packages/api/.env
+packages/api/src/config/credentials.json
+packages/app/.env
