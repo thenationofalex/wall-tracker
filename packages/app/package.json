@@ -22,7 +22,7 @@
     "prop-types": "^15.6.2",
     "react": "16.6.1",
     "react-apollo": "^2.3.2",
-    "react-native": "0.57.7",
+    "react-native": "^0.59.8",
     "react-native-aws3": "0.0.8",
     "react-native-camera": "^1.6.4",
     "react-native-device-info": "^0.24.3",
@@ -34,7 +34,7 @@
     "react-navigation": "^3.0.6"
   },
   "devDependencies": {
-    "babel-jest": "23.6.0",
+    "babel-jest": "^24.8.0",
     "babel-preset-react-native": "^4.0.1",
     "jest": "^24.5.0",
     "metro-react-native-babel-preset": "0.50.0",
