@@ -5,7 +5,7 @@
   "description": "Tracker Core",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/thenationofalex/wall-tracker/src/master/"
+    "url": "https://github.com/thenationofalex/wall-tracker/edit/master/"
   },
   "scripts": {
     "commitmsg": "./node_modules/.bin/commitlint -e $GIT_PARAMS"
