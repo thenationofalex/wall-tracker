@@ -15,7 +15,7 @@
   "author": "BestIndustries",
   "license": "UNLICENSED",
   "dependencies": {
-    "apollo-server-lambda": "^2.3.1",
+    "apollo-server-lambda": "^2.14.2",
     "dotenv": "^7.0.0",
     "graphql": "^14.0.2",
     "graphql-depth-limit": "^1.1.0",
